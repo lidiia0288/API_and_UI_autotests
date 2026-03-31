@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","Получить список заданий GET /todos @API","chromium","Tue Mar 31 01:53:36 UTC 2026","skipped","Tue Mar 31 01:53:36 UTC 2026","API challenge","api.tests.js","",""
+"","306","Получить полный список челленджей GET /challenges @API","chromium","Tue Mar 31 01:53:36 UTC 2026","failed","Tue Mar 31 01:53:36 UTC 2026","API challenge","api.tests.js","",""
+"","0","Выбрать несуществующее задание GET /todos @API","chromium","Tue Mar 31 01:53:36 UTC 2026","skipped","Tue Mar 31 01:53:36 UTC 2026","API challenge","api.tests.js","",""
+"","0","Выбрать определенное задание GET /todos @API","chromium","Tue Mar 31 01:53:36 UTC 2026","skipped","Tue Mar 31 01:53:36 UTC 2026","API challenge","api.tests.js","",""
+"","0","Нельзя запросить несуществующий todo GET /todos @API","chromium","Tue Mar 31 01:53:36 UTC 2026","skipped","Tue Mar 31 01:53:36 UTC 2026","API challenge","api.tests.js","",""
